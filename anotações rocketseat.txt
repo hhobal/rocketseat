@@ -1,0 +1,27 @@
+VARIAVEIS - uma caixa onde guarda um tipo de dado para usar mais tarde(informações)
+textos, números, booleanos(valores logicos) ou estrututrados
+
+VARIAVEL pode ser declarada utilizando uma palavra reservada
+
+NOME DAVARIÁVEL(regras)
+
+// DECLARAÇÃO DE ATRIBUTOS E VALORES- podem ser alterados atribuindo um novo valor para
+o nome da variável utilizando o = para alterar
+
+// CONSTANTE- não pode mudar o valor, apenas true ou false
+
+= atribuição de valor
+
+//STRING "" '' `` são textos
+
+//NUMBER 1 1.2
+
+//BOOLEAN true false apenas
+
+!FUNÇÕES- podem ser executadas ou podem ser criadas(não pode criar uma função que já existe)
+podem ser chamadas quantas vezes quiser
+como se fosse um mini programa dentro do programa
+tem que passar argumentos para ela 
+
+RETURN- tras de volta as informações de dentro da função
+ 

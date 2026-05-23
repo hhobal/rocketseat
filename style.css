@@ -81,7 +81,7 @@ body * {
   left: initial;
 }
 
-.#switch span {
+#switch span {
   display: block;
   width: 64px;
   height: 24px;
