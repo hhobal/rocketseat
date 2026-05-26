@@ -69,3 +69,21 @@ Este projeto parece ser um boilerplate/um exercício. A documentação aqui resu
 ---
 
 Gerado automaticamente como guia de estudo.
+
+- [ ] não determinística; probabilistica;
+- [ ] contexto
+- [ ] LLM: Large Language Model
+- [ ] autocomplete
+- [ ] active recall
+- [ ] explicações
+  - [ ] cuidados: nem sempre tudo é verdade
+  - [ ] alucinação
+- [ ] agentes: Agente, Ask (tirar dúvidas, pensar junto, ter ideias, explicar...)
+- [ ] Planejar então gerar (Plan)
+- [ ] Gerar então explicar (Agent)
+- [ ] Motivação com micro vitórias
+- [ ] Tree of Thought: árvore de pensamento
+- [ ] Documentação
+- [ ] PARE: Pergunte, Anote, Revise, Explique, PARE
+- [ ] Reescreva!
+- [ ] Entender, Escrever, Resolver
