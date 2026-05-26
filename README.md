@@ -43,4 +43,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Desenvolvido por Fábio Hobal Garcia durante os estudos no Discover da Rocketseat.
+https://hhobal.github.io/rocketseat
