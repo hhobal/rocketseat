@@ -12,7 +12,7 @@ Projeto desenvolvido durante o curso Discover da Rocketseat com foco em HTML, CS
 </p>
 
 <p align="center">
-  <img alt="Preview do projeto DevLinks" src="./assets/preview" width="100%">label=license&message=MIT&color=49AA26&labelColor=000000">
+  <img alt="Preview do projeto DevLinks" src="./assets/assets/preview.png" width="100%">label=license&message=MIT&color=49AA26&labelColor=000000">
 </p>
 
 <br>
